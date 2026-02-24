@@ -19,10 +19,11 @@ The objective is to improve underwriting efficiency, risk differentiation, and l
 
 ## 📂 Project Structure
 
-- `EDA.ipynb` → Full analysis notebook  
+- `Case_study.ipynb` → Full analysis notebook  
 - `data/` → Input datasets (not included if confidential)  
-- `figures/` → Exported charts used in analysis  
+- `requirements` → project requireents
 - `README.md` → Project documentation  
+
 
 ---
 
